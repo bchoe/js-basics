@@ -5,9 +5,15 @@ var myName= 'Bryan';
  * as well as an `age` (number);
  */
 
+ var person={
+ 	name:myName,
+ 	age:27,
+ };
+
 /* Create a variable called `canDrive`,
  * if it should be true if your person object is at least 16 years old
  */
+ 
 
 /* Create a function called `greet`,
  * it should take a 1 parameter, `name`
